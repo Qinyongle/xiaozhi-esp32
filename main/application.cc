@@ -18,7 +18,6 @@
 
 #define TAG "Application"
 
-test
 static const char* const STATE_STRINGS[] = {
     "unknown",
     "starting",
